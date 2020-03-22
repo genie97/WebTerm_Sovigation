@@ -3,7 +3,7 @@
 # Sovigation
 
 ### 1. Motivation
-![](./md_images/motive.jpg)
+![](./md_images/motive.JPG)
 
 > The academic information required by students is **dispersed**. 
 >
@@ -11,13 +11,13 @@
 
 ### 2. IDEA
 
-![](./md_images/idea.jpg)
+![](./md_images/idea.JPG)
 
 > **Student Service Integration Management web page**
 
 ### 3. Structure
 
-![](./md_images/structure.jpg)
+![](./md_images/structure.JPG)
 
 ### 4. Technology
 
@@ -37,38 +37,38 @@
 
 `Main Page`
 
-![](./md_images/main.jpg)
+![](./md_images/main.JPG)
 
 `Login Page`
 
-![](./md_images/login.jpg)
+![](./md_images/login.JPG)
 
 `Service Page`
 
-![](./md_images/service.jpg)
+![](./md_images/service.JPG)
 
 `Grade Management`
 
-![](./md_images/is.jpg)
+![](./md_images/is.JPG)
 
 `Assignment Management`
 
-![](./md_images/assignment.jpg)
+![](./md_images/assignment.JPG)
 
 `Food Table`
 
-![](./md_images/foodtable.jpg)
+![](./md_images/foodtable.JPG)
 
 `Library Seats`
 
-![](./md_images/library.jpg)
+![](./md_images/library.JPG)
 
 `Board Page`
 
-![](./md_images/community.jpg)
+![](./md_images/community.JPG)
 
 
 
 ### 6. Member
 
-![](./md_images/member.jpg)
+![](./md_images/member.JPG)
