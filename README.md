@@ -45,7 +45,7 @@
 
 `Service Page`
 
-![](./md_images/service.JPG){: width: 50, height:50}
+![](./md_images/service.JPG){: width="50" height="50"}
 
 `Grade Management`
 
