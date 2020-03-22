@@ -3,8 +3,7 @@
 # Sovigation
 
 ### 1. Motivation
-
-![.](C:.\md_images\motive.jpg)
+![](./md_images/motive.jpg)
 
 > The academic information required by students is **dispersed**. 
 >
@@ -12,13 +11,13 @@
 
 ### 2. IDEA
 
-![.](C:.\md_images\idea.jpg)
+![](./md_images/idea.jpg)
 
 > **Student Service Integration Management web page**
 
 ### 3. Structure
 
-![.](C:.\md_images\structure.jpg)
+![](./md_images/structure.jpg)
 
 ### 4. Technology
 
@@ -26,7 +25,7 @@
 
 |             HTML             | CSS                         |         JavaScript         |         Bootstrap          |
 | :--------------------------: | :-------------------------- | :------------------------: | :------------------------: |
-| ![.](C:.\md_images\html.png) | ![.](C:.\md_images\css.png) | ![.](C:.\md_images\js.png) | ![.](C:.\md_images\bs.png) |
+| ![](./md_images/html.png) | ![](./md_images/css.png) | ![](./md_images/js.png) | ![](./md_images/bs.png) |
 
 `Back-End`
 
@@ -38,38 +37,38 @@
 
 `Main Page`
 
-![.](C:.\md_images\main.jpg)
+![](./md_images/main.jpg)
 
 `Login Page`
 
-![.](C:.\md_images\login.jpg)
+![](./md_images/login.jpg)
 
 `Service Page`
 
-![.](C:.\md_images\service.jpg)
+![](./md_images/service.jpg)
 
 `Grade Management`
 
-![.](C:.\md_images\is.jpg)
+![](./md_images/is.jpg)
 
 `Assignment Management`
 
-![.](C:.\md_images\assignment.jpg)
+![](./md_images/assignment.jpg)
 
 `Food Table`
 
-![.](C:.\md_images\foodtable.jpg)
+![](./md_images/foodtable.jpg)
 
 `Library Seats`
 
-![.](C:.\md_images\library.jpg)
+![](./md_images/library.jpg)
 
 `Board Page`
 
-![.](C:.\md_images\community.jpg)
+![](./md_images/community.jpg)
 
 
 
 ### 6. Member
 
-![.](C:.\md_images\member.jpg)
+![](./md_images/member.jpg)
