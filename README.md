@@ -17,7 +17,7 @@
 
 ### 3. Structure
 
-![](./md_images/structure.JPG){: width="50px" height="50px"}
+![](./md_images/structure.JPG)
 
 ### 4. Technology
 
