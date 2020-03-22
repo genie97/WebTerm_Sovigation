@@ -17,7 +17,7 @@
 
 ### 3. Structure
 
-![](./md_images/structure.JPG)
+![](./md_images/structure.JPG){: width="50px" height="50px"}
 
 ### 4. Technology
 
@@ -45,7 +45,7 @@
 
 `Service Page`
 
-![](./md_images/service.JPG){: width="50" height="50"}
+![](./md_images/service.JPG)
 
 `Grade Management`
 
